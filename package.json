@@ -1,0 +1,28 @@
+{
+  "name": "rdm-msg-gm",
+  "version": "1.0.0",
+  "description": "paquete que solo genera palabras aleatorias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghalliard/rdm-msg-gm.git"
+  },
+  "keywords": [
+    "javascript",
+    "code",
+    "npm"
+  ],
+  "author": "gabriel montoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghalliard/rdm-msg-gm/issues"
+  },
+  "homepage": "https://github.com/ghalliard/rdm-msg-gm#readme",
+  "bin": {
+    "rdm-msg-gm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
